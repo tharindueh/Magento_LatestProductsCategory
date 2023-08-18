@@ -1,0 +1,14 @@
+{
+    "name": "cybersoft/latestcategory",
+    "description": "Magento 2 Latest Products Category Extension",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "CyberSoft\\LatestCategory\\": ""
+        }
+    }
+}
